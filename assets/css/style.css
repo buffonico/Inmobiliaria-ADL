@@ -1,0 +1,30 @@
+.main-section {
+    background-image: url('../img/img.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img {
+    height: 250px;
+}
+
+
+
+.footer {
+    margin: 20px 0px 0px;
+    background: #c5c9c5;
+    color: black;
+    text-align: center;
+    padding: 2rem 6vw;
+    font-size: 20px;
+}
